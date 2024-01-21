@@ -33,12 +33,10 @@ I love code!!
 
 <a href="http://www.github.com/kiruthick7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruthick7&stroke=f97316&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=f97316&currStreakLabel=ef4444&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="https://github.com/kiruthick7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruthick7&langs_count=10&title_color=ef4444&text_color=f97316&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><li::marker {style="display: none;"}><a href="https://www.buymeacoffee.com/kiruthick"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/kiruthick"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>

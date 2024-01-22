@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer | Cross Platform Mobile Application Developer | dApps (Blockchain) Applications Developer
 -------------------------------------------------------------------------------------------------------
 
-I love code!!
+I am an enthusiastic learner, always eager to explore diverse domains like data science, web development, and Flutter development. With confident and adept critical thinking skills, I thrive on challenges and possess a passion for coding.
 
 * 🌍  I'm based in Vellore, Tamilnadu, India
 * 🖥️  See my portfolio at [kiruthick.com](http://kiruthick.com)

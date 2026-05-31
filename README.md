@@ -1,8 +1,16 @@
 ## Hi, I'm Kiruthick 👋
 
-Software engineer focused on backend systems, cloud infrastructure, and agentic AI.
+Software engineer focused on backend systems, cloud infrastructure and agentic AI.
 
 Currently at **HST Global** — automating GCP IAM with Terraform, designing Pub/Sub event-driven pipelines and owning E2E test coverage with Cypress.
+
+🏆 Google Cloud Agentic Premier League 2025 Finalist (Top 15)
+
+☁️ Building AI Agents, Data Platforms and GenAI Applications
+
+💻 Python | FastAPI | GCP | Vertex AI | LangChain | Data Engineering
+
+📍 India
 
 ---
 
